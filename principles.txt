@@ -1,0 +1,2 @@
+1. Detect aspects of the applications that can vary and separate them from aspects that are static.
+1. Do programming on the interface level, but not the implementation level
