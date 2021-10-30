@@ -1,2 +1,4 @@
 1. Detect aspects of the applications that can vary and separate them from aspects that are static.
-1. Do programming on the interface level, but not the implementation level
+2. Do programming on the interface level, but not the implementation level
+3. Prefer composition rather than inheritance
+4. Strive to earn low coupling
