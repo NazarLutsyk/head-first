@@ -8,3 +8,5 @@
    (We have to detect parts of the application which can be POSSIBLY CHANGED LATER,
     and apply this principle for them. Using this principle everywhere is a BAD idea,
     your application can become too complex)
+6. Code should depend on abstraction, not on the classes
+   (High-level components should not depend on low-level components; Instead they both should depend on Abstraction)
