@@ -12,3 +12,4 @@
    (High-level components should not depend on low-level components; Instead they both should depend on Abstraction)
 7. Talk only with your close friends
    (Low coupling, high cohesion)
+8. Component should have only one reason for change
